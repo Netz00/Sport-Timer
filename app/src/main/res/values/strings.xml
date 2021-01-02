@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sport timer</string>
+    <string name="title_activity_settings">settings</string>
+
+    <string name="start">START</string>
+    <string name="settings">settings</string>
+    <string name="defaultTime">00:00</string>
+    <string name="DefaultRund">1</string>
+    <string name="round_time">ROUND TIME</string>
+    <string name="break_time">BREAK TIME</string>
+    <string name="number_of_rounds">NUMBER OF ROUNDS</string>
+    <string name="timer_delay">TIMER DELAY</string>
+
+
+</resources>
