@@ -7,5 +7,5 @@
 
 ### Try Out the App options:
 
-- download build (apk) and install it directly
+- download release (apk) and install it directly
 - build code and install apk located at: *.\build\outputs\apk\debug*
