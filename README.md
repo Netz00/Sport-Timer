@@ -1,9 +1,11 @@
-﻿# Sport-Timer
-how to use:
+# Sport-Timer
 
-run android studio->get from version control->choose git, enther url of repo "https://github.com/Netz00/Sport-Timer" and set "project directory"
+### Development:
+1. Start android studio
+2. Select *get from version control* -> *git*
+3. Enter url of repo *https://github.com/Netz00/Sport-Timer* and set *project directory*
 
+### Try Out the App options:
 
-app is located at: 
-
-"project directory"\build\outputs\apk\debug
+- download build (apk) and install it directly
+- build code and install apk located at: *.\build\outputs\apk\debug*
